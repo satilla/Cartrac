@@ -1,4 +1,4 @@
-# CarTrac
+# Cartrac
 Cartrac is open-source GPS based car tracking device.
 
 Device Features
