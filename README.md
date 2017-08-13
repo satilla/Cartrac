@@ -16,6 +16,6 @@ Cartrac is open-source GPS based car tracking device.
 * Current Protection (2 Amp Fuse)  
 * Buzzer  
 
-The project's PCB file designed in Altium Designer. Software is written in KEIL uVission IDE.  
+The project's PCB file designed in Altium Designer. The software is written in KEIL uVission IDE.  
 
 **You can also follow the topics about this project on [traccar.org](https://www.traccar.org).**
