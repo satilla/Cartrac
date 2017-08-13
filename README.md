@@ -3,7 +3,7 @@ Cartrac is open-source GPS based car tracking device.
 
 Device Features
 
-32 Bit ARM Core MCU - STM32F0
+32 Bit ARM Core MCU - STM32F0 \r\n
 Quectel GPS Module 
 Quectel M66 GSM Module
 Bluetooth 3.0
