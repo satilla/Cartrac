@@ -1,5 +1,5 @@
-# Cartrac
-Cartrac is open-source GPS based car tracking device.
+# Araç Takip
+Araç Takip is open-source GPS based car tracking device.
 
 ### Device Features
 
@@ -18,4 +18,5 @@ Cartrac is open-source GPS based car tracking device.
 
 The project's PCB file designed in Altium Designer. The software is written in KEIL uVission IDE.  
 
-**You can also follow the topics about this project on [traccar.org](https://www.traccar.org).**
+**This project uses [traccar](https://https://www.traccar.org/) infrastructure for the web interface.**
+**You can also follow the topics about this project on [sinanatilla.com](http://sinanatilla.com/arac-takip/).**
